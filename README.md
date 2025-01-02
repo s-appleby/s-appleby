@@ -2,7 +2,7 @@
 
 - 🔭 Postdoctoral fellow at Cal Poly San Luis Obispo (Bean Lab)
 - 👨‍🏫 Teaching BIO 590 (Ecological Informatics Seminar) & BIO 327 (Wildlife Ecology) this year.
-- 🌱 I’m currently learning to integrate GitHub into my teaching.
+- 🌱 I’m currently working to integrate GitHub into my teaching.
 
 <!--
 **s-appleby/s-appleby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
