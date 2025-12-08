@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Scott
 
 - 🔭 Postdoctoral fellow at Cal Poly San Luis Obispo (Bean Lab)
-- 👨‍🏫 Ecological Informatics (BIO 590/470) & Wildlife Ecology (BIO 327)
+- 👨‍🏫 Ecological Informatics (BIO 590/470), Wildlife Ecology (BIO 327) & Mammalogy (BIO 3321)
 - 🌱 Integrating data science into undergraduate biology, ecology and wildlife management curriculum.
 
 <!--
